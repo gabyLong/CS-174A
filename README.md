@@ -1,2 +1,2 @@
 # CS-174A
-Work for UCLA CS 174A - Fall 2020
+Work for UCLA CS 174A "Introduction to Computer Graphics" - Fall 2020
