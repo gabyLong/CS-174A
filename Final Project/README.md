@@ -1,6 +1,7 @@
 # Team LLST Final Project
 
-![Final version](assets/final_proj.png)
+![Final version](assets/final_proj2.png)
+Unfortunately the moving shadows (due to the day/night cycle) don't really screenshot well...
 
 **The idea:**
 * Rather than creating a game, we decided to create an interactive forest scene. Our project allows the user to move through the scene and view the simple world we have created. Our plan is to create trees, a simple mountain range, and clouds to bring depth and visually appealing scenery. As far as our theme goes we want to keep it simple; the user can freely roam around our small forest and appreciate nature during the spring season, albeit it being a simple, artificial one. We chose spring over other seasons as spring is the season where nature is most vibrant. We cannot fully capture blooming flora or fauna, but we wanted to have a more colorful, playful scene. This is something we believe everyone can appreciate given the amount of time most people have spent inside over the past few months.
